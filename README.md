@@ -57,10 +57,4 @@ Assignment_1/
 - [React](https://reactjs.org/)
 - [Create React App](https://create-react-app.dev/)
 
-## Author
 
-**Sagar Biswas**
-
----
-
-Feel free to use, modify, and share this project for learning or as a starter template!
