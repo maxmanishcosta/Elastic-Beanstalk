@@ -45,7 +45,7 @@ Assignment_1/
 
 - Browse the product grid.
 - Each card shows an image, name, price, rating, and description.
-- Click "Add to cart" (button is for UI only, no cart logic implemented).
+- Click "Add to cart" (the button is for UI only; no cart logic implemented).
 
 ## Customization
 
