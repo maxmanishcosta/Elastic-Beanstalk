@@ -49,6 +49,7 @@ Assignment_1/
 
 ## Customization
 
+
 - Add your own products or images in `src/Photos/` and update the data in `App.js`.
 - Style components further as needed.
 
