@@ -1,6 +1,6 @@
 # React Store
 
-A modern, responsive React web application that displays a grid of products with images, prices, ratings, and descriptions. This project is ideal for learning React fundamentals, component-based architecture, and inline styling.
+A modern, responsive React web application that displays a product grid with images, prices, ratings, and descriptions. This project is ideal for learning React fundamentals, component-based architecture, and inline styling.
 
 ## Features
 
@@ -48,7 +48,6 @@ Assignment_1/
 - Click "Add to cart" (the button is for UI only; no cart logic implemented).
 
 ## Customization
-
 
 - Add your own products or images in `src/Photos/` and update the data in `App.js`.
 - Style components further as needed.
